@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Word line</h1>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            Edit <code>말씀을 보자</code> and save to test <code>HMR</code>
           </p>
         </div>
         <button
